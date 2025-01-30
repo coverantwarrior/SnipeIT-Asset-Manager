@@ -44,7 +44,7 @@ Instalación
 
 1.  **Clonar el Repositorio**:
     
-        git clone https://github.com/tu-usuario/SnipeIT_AssetManager.git
+        git clone https://github.com/coverantwarrior/SnipeIT_AssetManager.git
     
 2.  **Navegar al Directorio del Proyecto**:
     
