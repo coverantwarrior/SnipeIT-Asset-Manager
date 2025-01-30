@@ -44,11 +44,11 @@ Instalación
 
 1.  **Clonar el Repositorio**:
     
-        git clone https://github.com/coverantwarrior/SnipeIT_AssetManager.git
+        git clone https://github.com/coverantwarrior/SnipeIT-Asset-Manager.git
     
 2.  **Navegar al Directorio del Proyecto**:
     
-        cd SnipeIT_AssetManager
+        cd SnipeIT-Asset-Manager
     
 3.  **Restaurar Dependencias**:
     
